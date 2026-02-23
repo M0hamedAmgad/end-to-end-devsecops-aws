@@ -55,6 +55,9 @@ The pipeline is structured into 10 automated stages:
 3. **SonarQube:** Deploy SonarQube using Docker:
    ```bash
    docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
+4. **Pipeline:** Connect Jenkins to your GitHub and add your DockerHub/Sonar credentials.
+
+5. **Build:** Click "Build Now" and watch the DevSecOps magic happen!
 
 ---
 ## 🏁 Conclusion
