@@ -1,6 +1,6 @@
 # DevSecOps Pipeline: Zomato Clone Deployment 🚀🛡️
 
-![DevSecOps](https://imgur.com/Hk28ffE.png)
+![DevSecOps](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X_hm5iF0NRjbOZHB6RQIFA.jpeg)
 
 This project demonstrates a high-level **DevSecOps Pipeline** implementation. It focuses on integrating security at every stage of the CI/CD lifecycle, ensuring that the application is not only built and deployed automatically but also scanned for vulnerabilities.
 
